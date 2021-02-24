@@ -24,7 +24,7 @@ export const slidesData = [
     projects: [
       { img: burgerweb, url: "https://modest-jackson-791386.netlify.app/" },
       { img: teezerweb, url: "https://competent-khorana-6c9637.netlify.app" },
-      { img: colorhexweb, url: "https://competent-khorana-6c9637.netlify.app" },
+      { img: colorhexweb, url: "https://sad-hermann-136891.netlify.app/" },
     ],
   },
   {
