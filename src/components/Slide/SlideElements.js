@@ -73,11 +73,11 @@ export const TextContainer = styled.div`
     width: 40%;
     margin-top: -2rem;
     margin-bottom: 2rem;
-    box-shadow: 1px 1px 8px white;
+    box-shadow: 1px 1px 4px white;
   }
   h3 {
     padding-bottom: 2rem;
-    text-shadow: 1px 1px 8px #6930c3;
+    text-shadow: 0.1px 0.1px 1px #6930c3;
     font-weight: 600;
   }
   h4 {

@@ -26,6 +26,9 @@ export const SkillsTextWrap = styled.div`
   }
   p {
     font-size: 2.2rem;
+    span {
+      color: #00e4c3;
+    }
   }
   @media screen and (max-width: 1024px) {
     padding-right: 0;

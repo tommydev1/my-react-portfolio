@@ -30,9 +30,13 @@ const Skills = ({ isOpen }) => {
         </p>
         <br />
         <p>
-          I've worked with different JavaScript Frameworks,
-          <br />
-          whereat I am mostly experienced with React.
+          I've worked with different JavaScript Frameworks, whereat I am mostly
+          experienced with React.
+        </p>
+        <p>
+          Lately I've gained additional skills in{" "}
+          <span>Shopify Theme Development</span> and their templateing language{" "}
+          <span>Liquid</span>.
         </p>
         <br />
         <p>I am also comfortable with the functionality of Git and</p>

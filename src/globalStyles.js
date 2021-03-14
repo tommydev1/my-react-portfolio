@@ -8,7 +8,7 @@ export const GlobalStyles = createGlobalStyle`
     }
     html {
         font-size: 62.5%;
-        font-family: 'Truculenta', sans-serif;
+        font-family: 'Saira Condensed', sans-serif;
         user-select: none;
         @media screen and (max-width: 768px) {
         font-size: 45%;
@@ -27,14 +27,14 @@ export const GlobalStyles = createGlobalStyle`
         overflow: hidden;
     }
     button {
-        font-family: 'Truculenta', sans-serif;
-        padding: 0.8rem 1.6rem;
+        font-family: 'Saira Condensed', sans-serif;
+        padding: 0.8rem 2.5rem;
         font-size: 2rem;
         font-weight: 500;
         background: transparent;
         color: white;
         cursor: pointer;
-        border: 1px solid white;
+        border: 1.5px solid white;
         &:hover {
             background: white; 
             color: black;
